@@ -15,6 +15,7 @@ import java.nio.file.StandardCopyOption;
  * - importExcelAndCheck: check excel magic bytes for XLS/XLSX
  * - uploadImage: validate image by magic bytes/size and write to disk
  * - validateImage: helper to validate stream image header and size
+ * - test
  */
 public class FileUtils {
 
